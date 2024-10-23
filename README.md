@@ -16,3 +16,5 @@ project-root/
 ## API Endpoint
 
 GET /recipes: Fetches all recipes from the database.
+
+## Connecting to Jira
